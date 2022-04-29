@@ -19,10 +19,9 @@
 #
 import os
 import sys
+import fractal_python
 
 sys.path.insert(0, os.path.abspath(".."))
-
-import fractal_python
 
 # -- General configuration ---------------------------------------------
 
